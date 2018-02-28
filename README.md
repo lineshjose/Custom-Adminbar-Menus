@@ -10,7 +10,7 @@ This is a simple plugin for adding custom nav menus to your WordPress Adminbar/T
 3. Easy to use.
 
 ## Download
-Yoy can download latest version from [WordPress.org](https://wordpress.org/plugins/custom-adminbar-menus/).
+You can download latest version from [WordPress.org](https://wordpress.org/plugins/custom-adminbar-menus/).
 
 ## Troubleshooting
 If you have any problems running Blue Admin, [Support Forum](https://linesh.com/forums/forum/plugins/custom-adminbar-menus/).
